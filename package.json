@@ -1,0 +1,9 @@
+{
+  "name": "coming_soon",
+  "version": "v1.0.0",
+  "main": "src/index.html",
+  "scripts": "tailwindcss build src/input.css -o public/styles.css",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
